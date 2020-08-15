@@ -1,5 +1,4 @@
 'use strict';
 
-let a = 'Jack';
+let a = 'Bobby';
 console.log(a);
-console.log('Hello Jack');
