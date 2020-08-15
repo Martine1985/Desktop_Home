@@ -1,4 +1,3 @@
 'use strict';
 
-let a = 'Bobby';
-console.log(a);
+console.log('Marjana lovely baby');
